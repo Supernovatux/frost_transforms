@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<EntryPoint Location="644323e8-e723-4fe9-b1f8-e5dea814141a">
+    <Info File="RVC2/rvctools/startup_rvc.m" GroupUUID="" Icon="" Name="startup_rvc" Type="StartUp" Visible="0"/>
+</EntryPoint>
